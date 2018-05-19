@@ -57,15 +57,15 @@ potion.effect.long_cold_resistance_type=Poción de resistencia al frío
 potion.effect.heat_resistance_type=Poción de resistencia al calor
 potion.effect.long_heat_resistance_type=Poción de resistencia al calor
 
-splash_potion.effect.cold_resistance_type=Poción arrojadiza de resistencia al frío
-splash_potion.effect.long_cold_resistance_type=Poción arrojadiza de resistencia al frío
-splash_potion.effect.heat_resistance_type=Poción arrojadiza de resistencia al calor
-splash_potion.effect.long_heat_resistance_type=Poción arrojadiza de resistencia al calor
+splash_potion.effect.cold_resistance_type=Poción de resistencia al frío arrojadiza
+splash_potion.effect.long_cold_resistance_type=Poción de resistencia al frío arrojadiza
+splash_potion.effect.heat_resistance_type=Poción de resistencia al calor arrojadiza
+splash_potion.effect.long_heat_resistance_type=Poción de resistencia al calor arrojadiza
 
-lingering_potion.effect.cold_resistance_type=Poción persistente de resistencia al frío
-lingering_potion.effect.long_cold_resistance_type=Poción persistente de resistencia al frío
-lingering_potion.effect.heat_resistance_type=Poción persistente de resistencia al calor
-lingering_potion.effect.long_heat_resistance_type=Poción persistente de resistencia al calor
+lingering_potion.effect.cold_resistance_type=Poción de resistencia al frío persistente
+lingering_potion.effect.long_cold_resistance_type=Poción de resistencia al frío persistente
+lingering_potion.effect.heat_resistance_type=Poción de resistencia al calor persistente
+lingering_potion.effect.long_heat_resistance_type=Poción de resistencia al calor persistente
 
 tipped_arrow.effect.cold_resistance_type=Flecha de resistencia al frío
 tipped_arrow.effect.long_cold_resistance_type=Flecha de resistencia al frío
